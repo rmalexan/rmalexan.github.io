@@ -7,7 +7,7 @@ You can find my personal [website](https://rmalexan.wixsite.com/mysite) and [Twi
 
 There are some examples of what I've been working on:
 
-### 1. Flight delay analysis
+### 1. Flight delay analysis [link](https://github.com/rmalexan/flightanalysis)
 
 <img align="center" src="https://github.com/rmalexan/rmalexan.github.io/blob/master/FlightAnalysisGif.png" width="50%" height="50%">
 
